@@ -7,7 +7,9 @@ Donate
 =======
 
 If you want to help me a bit, please send money here:
+
 BTC: 167XfWL7JWzYjbs46xH46fNDBmE4FmfMBS
+
 LTC: LUr2aSddjBsj6DYUXM6mMiDNEmdq9jnbzK
 
 Licence
