@@ -1,10 +1,6 @@
 BtcePublicApiV3Handler
 ======================
 
-Btc-e.com public api v3 handler
+Btc-e.com public api v3 handler. Enjoy!
 
-Licence
-=======
-
-Everything is under GPL[v.3].
-Take it, use it, don't forget about my name.
+<b>Under GPL v3</b>
